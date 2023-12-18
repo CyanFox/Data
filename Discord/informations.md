@@ -1,5 +1,3 @@
-**CyanFox Projects**
-
 Welcome to the **CyanFox Projects** Discord server
 In this Channel you will find basic information about the Discord server and all **CyanFox Projects**
 
