@@ -59,3 +59,21 @@
         entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden
         wir derartige Inhalte umgehend entfernen.</p>
 </section>
+<style>
+    .m-20 {
+    margin: 5rem;
+}
+.text-2xl {
+    font-size: 1.5rem;
+}
+.font-bold {
+    font-weight: 700;
+}
+.text-xl {
+    font-size: 1.25rem;
+}
+.link {
+    textDecoration: underline;
+    cursor: pointer;
+}
+</style>
