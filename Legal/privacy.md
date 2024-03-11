@@ -274,3 +274,30 @@
                                                         rel="noopener noreferrer">https://www.google.com/policies/privacy/</a>.
     </p>
 </section>
+<style>
+    .m-20 {
+    margin: 5rem;
+}
+.text-xl {
+    font-size: 1.25rem;
+}
+.font-bold {
+    font-weight: 700;
+}
+.text-lg {
+    font-size: 1.125rem;
+}
+.link {
+    textDecoration: underline;
+    cursor: pointer;
+}
+.list-disc {
+    list-style-type: disc;
+}
+.list-inside {
+    list-style-position: inside;
+}
+.pl-3 {
+    padding-left: .75rem;
+}
+</style>
