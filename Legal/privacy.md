@@ -7,7 +7,7 @@
     <p>Die Datenverarbeitung auf dieser Website erfolgt durch</p>
     <p><b>Lenny Petschl<br>Hirschberger Str. 10A<br>92339 Beilngries</b></p>
     <p><b><a class="link" href="mailto:lenny@petschl.org">lenny@petschl.org</a></b></p>
-    <p>Weitere Angaben finden Sie im <a class="link" href="imprint.html">Impressum</a></p><br>
+    <p>Weitere Angaben finden Sie im <a class="link" href="/impress">Impressum</a></p><br>
     <p class="text-xl font-bold">Wie erfassen wir Ihre Daten?</p>
     <p>Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese
         mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein
