@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This repo has been moved to [CyanFox/.github](https://github.com/CyanFox.github)
+> This repo has been moved to [CyanFox/.github](https://github.com/CyanFox/.github)
 
 # Data
 Public data for all projects
